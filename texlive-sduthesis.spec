@@ -1,6 +1,6 @@
 Name:		texlive-sduthesis
 Version:	41401
-Release:	1
+Release:	2
 Summary:	Thesis Template of Shandong University
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sduthesis
