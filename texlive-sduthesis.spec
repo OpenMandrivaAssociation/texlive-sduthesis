@@ -3,7 +3,7 @@ Version:	41401
 Release:	2
 Summary:	Thesis Template of Shandong University
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sduthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/sduthesis
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sduthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sduthesis.doc.r%{version}.tar.xz
